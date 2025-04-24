@@ -1,2 +1,2 @@
 # SequenceStack
-Implement a stack using queues
+Implement a stack using a sequential list
